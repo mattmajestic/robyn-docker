@@ -1,5 +1,7 @@
 # Robyn with Docker 🐳🦀
 
+<a href="https://github.com/sponsors/mattmajestic"><img src="https://img.shields.io/badge/Sponsor-GitHub-black?style=for-the-badge&logo=github" alt="Sponsor me on GitHub"></a>
+
 Welcome to robyn-docker, a project showcasing the power of Robyn, a Rust-based asynchronous web framework, through Python. This project demonstrates how to containerize a Robyn application using Docker, making deployment smooth and scalable across any environment.
 
 Robyn brings together Rust's performance and safety with Python's simplicity and flexibility, offering an excellent choice for building high-performance web applications.
